@@ -1,6 +1,6 @@
-<div style="align-items: center; background-image: url('./images/bg_outrun.gif');background-color: #871c56;height: 500px;background-position: center;background-repeat: no-repeat;background-size: cover; display: flex; justify-content: center; margin: auto; max-height: 240px; max-width: 700px">
-    <h1 style="color: #efefef; font-size: 3.5em; padding: 1em; text-shadow: 4px 4px 12px #000000;">👋 Hi, I'm Coty</h1>
-</div>
+# 👋 Hi, I'm Coty
+
+---
 
 # Stuff I Like
 
