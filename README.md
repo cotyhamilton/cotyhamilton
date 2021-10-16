@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Coty
 
----
-
 # Stuff I Like
 
 - 💰 Financial Tech
