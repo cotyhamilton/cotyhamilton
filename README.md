@@ -17,7 +17,7 @@
 # Current Project
 
 [Ava Finance](https://avafinance.io) (An intuitive personal finance application)
-![Ava Finance](./images/ava-screenshot.png)
+<img src="images/ava-screenshot.png" width="600">
 
 # Connect
 
