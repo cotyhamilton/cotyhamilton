@@ -8,8 +8,10 @@
 - 💻 Web Development
 - 🎨 Graphic Design
 - 🛠 Making things
+- 🐟 Fishkeeping
 - ✌️ Minimalism
 - 🍄 Mario
+- ♟ Chess
 - 🔥 Proletarian Revolution
 
 # Current Project
